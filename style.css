@@ -11,7 +11,7 @@
     min-height: 100vh;
 
     width: 100%;
-    background-image:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(eduford_img/main.jpg);
+    background-image:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(main.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -157,17 +157,17 @@ h3{
 }
 
 .c1{
-    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(eduford_img/lounges.jpg); 
+    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(lounges.jpg); 
     background-position: center;
     background-size: cover;
 }
 .c2{
-    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(eduford_img/dresses.jpg); 
+    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(dresses.jpg); 
     background-position: center;
     background-size: cover;
 }
 .c3{
-    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(eduford_img/flowers.jpg); 
+    background:linear-gradient(rgba(55, 16, 60, 0.7),rgba(61, 34, 63, 0.655)), url(flowers.jpg); 
     background-position: center;
     background-size: cover;
 }
@@ -332,7 +332,7 @@ box-shadow:0 10px 10px rgba(0,0,0,0.2);
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(eduford_img/wedding.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(wedding.jpg);
     background-position: top;
     background-size: cover;
     border-radius: 10px;
